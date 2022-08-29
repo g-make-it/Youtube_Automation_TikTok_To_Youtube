@@ -13,7 +13,18 @@ Youtube automation project to create TikTok compilation videos, to post on to yo
 [![Watch the video](https://img.youtube.com/vi/rFlevEdH4Io/0.jpg)](https://www.youtube.com/watch?v=rFlevEdH4Io)
 
 
+<ins>Youtube Automation a step-by-step guide - how to get the project up and running<ins>
+
+[![Watch the video](https://img.youtube.com/vi/nUyE2AjT_jw/0.jpg)](https://www.youtube.com/watch?v=nUyE2AjT_jw)
+
+
 
 ## [Subscribe](https://www.youtube.com/channel/UCsQqV_wq5yPrw5YIpvwmjvQ) to my youtube channel - this took a lot of time to make - so Subscribe.
 
 it helps me out.
+
+
+Notes:
+
+- redirect URI -> http://localhost:8080/
+- delete all the .gitkeep
